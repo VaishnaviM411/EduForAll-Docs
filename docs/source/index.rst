@@ -12,6 +12,7 @@ Since the advent of the internet, free high-quality education is now in abundanc
 
 
 How to Host on the LAN:
+
 - When you run the Server, use the following line: `python manage.py runserver <ipv4 address>:<port number>`
   - You may get your IPv4 address from Netowrks in your settings. Example: `192.168.0.107`. Make sure you're connected to a LAN network.
   - Port Number can be any number from `1024 to 65353`. We typically use `8000`.
@@ -24,13 +25,6 @@ Stack Used:
 - **Frontend**- HTML, CSS, JS, jQuery, Bootstrap.
 
 Do watch the Video for all the explanation, working and flow: https://youtu.be/us9VEqRAULI 
-
-Check out the Implementation:
-.. image:: demo.png
-  :width: 800
-  :height: 400
-  :alt: Alternative text
-
 
 
 
