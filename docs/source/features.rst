@@ -1,0 +1,13 @@
+### Features:
+- **Tests**
+  - Solve Chapter-based MCQ Tests to practice the necessary concepts.
+  - Search for the tests based on your Medium, Board, Grade and Subject.
+  - **Note:** For Demo purposes, Tests are added for only 10th Standard, SSC board, English Medium and 1st chapter of each subject.
+- **Syllabus**
+  - Fetch the Textbooks by Medium, Board and Grade.
+  - You may choose to read or download on your device.
+  - **Note:** For Demo purposes, Syllabus are added for only 10th Standard, English Hindi Marathi Medium of SSC Board.
+- **Forum**
+  - Ask any Doubts or help to get other students' doubts cleared.
+  - You need to Register/Login for the same, so as to maintain the data of the answerer.
+  - **Note:** Users must not violate the basic code of conduct for discussing in forum.
