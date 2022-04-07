@@ -1,7 +1,7 @@
-Welcome to Lumache's documentation!
+**EduForAll** - Solving the Education Accessibilty.
 ===================================
 
-**EduForAll** - Solving the Education Accessibilty.
+
 *A Proposal for the Community Development Project.*
 
 *About*:
@@ -25,7 +25,7 @@ Stack Used:
 
 Do watch the Video for all the explanation, working and flow: https://youtu.be/us9VEqRAULI 
 
-### Check out the Implementation:
+Check out the Implementation:
 .. image:: demo.png
   :width: 800
   :height: 400
